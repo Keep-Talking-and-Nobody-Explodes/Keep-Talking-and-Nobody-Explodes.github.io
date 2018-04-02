@@ -5,6 +5,8 @@ permalink: '/v1/the-button'
 
 _The Button_ is a module which consists of 3 inputs: the button's color, the button's label, and (potentially) the color of the strip next to the button.
 
+---
+
 ## The Bomb Manual's Instructions
 
 Follow these rules in the order they are listed. Perform the first action that applies:
@@ -16,6 +18,8 @@ Follow these rules in the order they are listed. Perform the first action that a
 5. If the button is yellow, hold the button and refer to "Releasing a Held Button".
 6. If the button is red and the button says "Hold", press and immediately release the button.
 7. If none of the above apply, hold the button and refer to "Releasing a Held Button".
+
+---
 
 ## Unofficial Instructions
 
@@ -36,6 +40,8 @@ Worst case, the Bomb Manual requires 7 steps to get to the default case - we str
 3. If there are less than 3 batteries, **press and hold**.<!-- FRK -->
   - If there is a lit 'FRK' indicator, **press and immediately release**.
   - Otherwise, **press and hold**.
+
+---
 
 ## Releasing a Held Button
 
