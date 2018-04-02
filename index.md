@@ -1,3 +1,6 @@
+---
+title: Home
+---
 ## Welcome to the Unofficial _Keep Talking and Nobody Explodes_ Github Pages
 
 If you're unfamiliar with Github Pages, that's okay - in a lot of ways, it's quite like a wikia subdomain, but we use Jekyll and Github for revision control. The unfortunate downside is that you need to make merge requests, but that's pretty simple once you get the hang of it! If you don't know any markdown, [you can start here](markdown.md)!
