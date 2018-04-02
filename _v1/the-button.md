@@ -31,7 +31,6 @@ Worst case, the Bomb Manual requires 7 steps to get to the default case - we str
 |:----------|----:|-------:|------:|------:|
 |   **Blue**|HOLD |1, 3    |3      |3      |
 |  **White**|2, 3 |1, 2, 3 |2, 3   |2, 3   |
-| **Yellow**|3    |1, 3    |3      |3      |
 |    **Red**|3    |1, 3    |RELEASE|3      |
 |**(Other)**|3    |1, 3    |3      |3      |
 
